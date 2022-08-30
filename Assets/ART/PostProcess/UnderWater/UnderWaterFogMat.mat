@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnderWaterFogMat
+  m_Shader: {fileID: -6465566751694194690, guid: 9e8f7baa4acd35c428ad40c2c3e9b0e6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainText:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blend: 1
+    - _Depth: 4.35
+    - _MinOpacity: 0.9
+    - _Strenght: 0.15
+    m_Colors:
+    - Color_14caab3dbb404bb9a98450edd250dc80: {r: 0, g: 0, b: 0, a: 0}
+    - Color_2900cfa9c08043e5a9922fd46cbcab38: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 0.2622434, g: 0.6719162, b: 0.764151, a: 1}
+    - _BlendColor: {r: 0.26004693, g: 0.48025367, b: 0.5471698, a: 1}
+    - _CamDir: {r: 0, g: 0, b: 1, a: 0}
+    - _CamDir1: {r: -0.1294283, g: -0.45786473, b: 0.87955, a: 0}
+    - _CamDir2: {r: 0.12942831, g: -0.21461911, b: 0.96808416, a: 0}
+  m_BuildTextureStacks: []

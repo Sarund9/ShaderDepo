@@ -1,0 +1,49 @@
+
+
+=== PBR SOLID ===
+
+Terrain Shader		|||||| IMPL
+
+RainWetMetal		||||||| IMPL
+
+=== PBR TRANSLUCID ===
+
+Water Shader	|||||| IMPL
+
+ForceFieldShader |||||| IMPL
+
+
+=== UNLIT ===
+
+Portal Shader	 |||||| IMPL
+
+
+PaperCellShader	 |||||| IMPL
+
+
+=== POST PROCESS ===
+
+DarkVisionShader	|||||| IMPL
+
+
+UnderWaterShader	|||||| IMPL
+
+=== REPLACEMENT ===
+
+Plantlife Shader	|||||| IMPL
+
+Highlight Shader
+
+
+==== ENVIROMENT ====
+
+Beach
+* Water + Underwater
+* Metalic Objects w/ Rain Shader
+* Trees & Plants w/ PaperCell
+* A Forcefield sourrounding the Area
+* Dark Orbs w/ Vision Inside
+
+Character
+* First Person
+* 

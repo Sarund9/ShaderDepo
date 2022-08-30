@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OrbTestMat
+  m_Shader: {fileID: -6465566751694194690, guid: f9b13f1af1f56404e8fa6d4229a0481b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FresnelSize: 7.69
+    - _InsideNoiseFade: 1.1
+    - _InsideNoiseFadeRange: 0.292
+    - _InsideNoiseFadeScale: 9.67
+    - _InsideNoiseFadeSpeed: 4.28
+    - _InsideNoisePow: 1.82
+    - _InsideNoiseRamp: 0.154
+    - _InsideNoiseScale: 23.3
+    - _InsideNoiseSpeed: 5.61
+    - _NumCells: 5
+    - _RingSize: 0.184
+    m_Colors:
+    - _Color: {r: 0.426837, g: 0.19716616, b: 0.9339623, a: 1}
+    - _InsideColor: {r: 0.04044601, g: 0.047169805, b: 0.03754777, a: 0}
+    - _InsideNoiseDirection: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
